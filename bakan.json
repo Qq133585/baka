@@ -1,0 +1,19 @@
+[
+  {
+    "name": "巴卡漫画",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.bakamh",
+    "apk": "tachiyomi-zh.bakamh-v1.4.42.apk",
+    "lang": "zh",
+    "code": 64,
+    "version": "1.4.42",
+    "nsfw": 1,
+    "sources": [
+      {
+        "id": "3712194609356981776",
+        "lang": "zh",
+        "name": "巴卡漫画",
+        "baseUrl": "https://bakamh.ru/"
+      }
+    ]
+  }
+]
